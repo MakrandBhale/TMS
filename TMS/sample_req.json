@@ -1,0 +1,30 @@
+{
+    "coordinates": {
+        "center": {
+            "lat": "18.44812445",
+            "lang": "73.85852076"
+        },
+        "incoming": [
+            {
+                "direction": "top",
+                "lat": "18.44777294",
+                "lang": "73.85852076"
+            },
+            {
+                "direction": "right",
+                "lat": "18.447674",
+                "lang": "73.860086"
+            },
+            {
+                "direction": "bottom",
+                "lat": "18.446262",
+                "lang": "73.859085"
+            },
+            {
+                "direction": "left",
+                "lat": "18.448822",
+                "lang": "73.856698"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+#structure {
+    margin: 10% 23% 10% 25%;
+    width: 50%;
+    height: 60%;
+    border: 0;
+    table-layout:fixed;
+    text-align: center;
+    vertical-align: middle;
+}
+td{
+    width: 33.33%;
+    height: 33.33%;
+    position: relative;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.road-block {
+    background-color: black;
+}
+
+.timer {
+    color: white;
+    
+    font-size: 30px;
+}
